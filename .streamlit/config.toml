@@ -1,0 +1,31 @@
+[server]
+enableStaticServing = true
+
+[[theme.fontFaces]]
+family = "carlito"
+url = "static/Carlito-Regular.ttf"
+style = "normal"
+weight = 400
+
+[[theme.fontFaces]]
+family = "carlito"
+url = "static/Carlito-Bold.ttf"
+style = "normal"
+weight = 700
+
+[[theme.fontFaces]]
+family = "carlito"
+url = "static/Carlito-Italic.ttf"
+style = "italic"
+weight = 400
+
+[[theme.fontFaces]]
+family = "carlito"
+url = "static/Carlito-BoldItalic.ttf"
+style = "italic"
+weight = 700
+
+[theme]
+font = "carlito"
+headingFont = "carlito"
+codeFont = "monospace"
